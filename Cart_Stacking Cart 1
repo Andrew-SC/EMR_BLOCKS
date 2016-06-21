@@ -1,0 +1,111 @@
+<table>
+<tr>
+                <td class="pad-lr10" bgcolor="#FFFFFF" align="center" valign="top" style="padding:40px 0px 40px 0px; font-size:1px; line-height:0; mso-margin-top-alt:1px;">
+                  <table class="fluid" width="530" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                    <tr>
+                      <td>
+                        
+                        <!--[if (gte mso 9)|(IE)]>
+                              <div style="float:left;width:530px; margin: 0; padding: 0;">
+                              <![endif]--> 
+                        
+                        [[productlist:start]] 
+                        
+                        <!--[if (gte mso 9)|(IE)]>
+                              <div style="float:left;width:263px; margin: 0; padding: 0;">
+                              <![endif]-->
+                        <table class="fluid" align="left" width="263" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border:1px solid #ffffff;">
+                          <tr>
+                            <td bgcolor="#ffffff" align="center" style="font-size:1px; line-height:0; mso-margin-top-alt:1px;">
+                              <p style="mso-table-lspace:0;mso-table-rspace:0; margin:0px; padding:0px;">
+                                <a href="[[Link]]8|http://spartanrace.7eer.net/c/72404/188471/3333[sc_qm]u=[[customfield1]]"><img src="[[ItemImage]]" width="150" alt="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none;" /></a>
+                              </p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#ffffff" align="center" style="font-family:Helvetica, Arial, sans-serif; text-transform:uppercase; color:#666666; font-size:14px; mso-line-height-rule:exactly; line-height:20px; font-weight:normal; padding:20px 30px 0px 30px;">
+                              <a href="[[Link]]9|http://spartanrace.7eer.net/c/72404/188471/3333[sc_qm]u=[[customfield1]]" style=" color:#666666; text-decoration:none;"> [[ItemName]]</a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#ffffff" align="center" style="font-family:Helvetica, Arial, sans-serif; text-transform:uppercase; color:#e51836; font-size:16px; mso-line-height-rule:exactly; line-height:20px; font-weight:normal; padding:10px 10px 40px 10px;">
+                              $[[ItemValue]]
+                            </td>
+                          </tr>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]>
+                              </div>
+                              <![endif]--> 
+                        
+                        [[productlist:end]] 
+                        
+                        <!--[if (gte mso 9)|(IE)]>
+                              <div style="float:right;width:263px; margin: 0; padding: 0;">
+                              <![endif]-->
+                       <table class="fluid" align="right" width="263" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border:1px solid #ffffff;">
+                          <tbody>
+                            <tr>
+                             
+                              <td bgcolor="#FFFFFF" align="left" valign="top" style="border:1px #bbbbbb solid;">
+                                <p style="mso-table-lspace:0;mso-table-rspace:0; margin:0px; padding:0px;">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                  <tr>
+                                    <td align="center" valign="top" style="padding:20px 0px 10px;">
+                                      <table width="100%" align="left" border="0" cellpadding="0" cellspacing="0" >
+
+                                        <tr>
+                                          <td align="center" valign="top" style="padding:10px 0px;">
+                                            <table width="220" border="0" cellspacing="0" cellpadding="0">
+                                              <tbody>
+                                                <tr>
+                                                  <td align="left" valign="bottom" style="font-family:Helvetica, Arial, sans-serif; color:#666666; font-size:16px; mso-line-height-rule:exactly; line-height:22px; font-weight:normal; padding:0px 0px 20px 0px;">
+                                                    TOTAL
+                                                  </td>
+                                                  <td align="right" valign="bottom" style="font-family:Helvetica, Arial, sans-serif; color:#666666; font-size:22px; mso-line-height-rule:exactly; line-height:22px; font-weight:normal; padding:0px 0px 20px 0px;">
+                                                    $[[TotalValue]]
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left" style="font-family:Helvetica, Arial, sans-serif; color:#666666; font-size:12px; mso-line-height-rule:exactly; line-height:22px; font-weight:normal; padding:0px 0px 30px 0px;">
+                                                    ITEMS
+                                                  </td>
+                                                  <td align="right" style="font-family:Helvetica, Arial, sans-serif; color:#666666; font-size:12px; mso-line-height-rule:exactly; line-height:22px; font-weight:normal; padding:0px 0px 30px 0px;">
+                                                    [[NumItems]]
+                                                  </td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td align="center" valign="top" style="padding:0px 0px 10px 0px;" >
+                                            <a href="[[Link]]10|http://spartanrace.7eer.net/c/72404/188471/3333[sc_qm]u=http%3A%2F%2Fshop.spartan.com%2Fcheckout%2Fcart"><img src="http://images.salecycle.com/19009/13221/CheckoutNow-sm.png" width="240" height="40" alt="CHECKOUT NOW" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none;  color:#e51836; font-size:16px;"/></a>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td align="center" valign="top">
+                                            <a href="[[Link]]11|http://spartanrace.7eer.net/c/72404/188471/3333[sc_qm]u=http%3A%2F%2Fshop.spartan.com"><img src="http://images.salecycle.com/19009/13221/ContinueShopping-sm.png" width="240" height="40" alt="CONTINUE SHOPPING" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none; color:#666666; font-size:16px;"/></a>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                                </p>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <!--[if (gte mso 9)|(IE)]>
+                              </div>
+                              <![endif]-->
+                        <!--[if (gte mso 9)|(IE)]>
+                              </div>
+                              <![endif]-->
+                        
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+</table>
