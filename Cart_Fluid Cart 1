@@ -1,0 +1,70 @@
+<table>
+<tr>
+                <td bgcolor="#FFFFFF" align="left" valign="top" style="font-family:Helvetica, Arial, sans-serif;  color:#2b2b2b; font-size:24px; mso-line-height-rule:exactly; line-height:24px; font-weight:normal;  padding:20px 30px 10px 30px;">
+                  Your Shopping Cart
+                </td>
+              </tr>
+              <tr>
+                <td bgcolor="#FFFFFF" align="left" valign="top" style="padding: 10px 30px 15px;">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                    <tr>
+                      <td bgcolor="#ffffff" style="padding:0px" >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: solid 1px #b2b2b2; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                          <tr>
+                            <td style="font-size:1px; line-height:0px; mso-margin-top-alt:1px; color:#ffffff;">
+                              .
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td bgcolor="#FFFFFF" align="left" valign="middle" style="padding:0px 30px;">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="70" align="left" valign="top" >
+                        <img class="fluid" src="http://placehold.it/70x85" width="70" alt="" style="font-size:1px; line-height:0; mso-margin-top-alt:1px; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none;"/>
+                      </td>
+                      <td height="83" align="left" valign="top" style="padding:0px 0px 0px 20px;">
+                        <table class="fluid" width="320" align="left" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                          <tr>
+                            <td align="left" valign="top" style="font-family:Helvetica, Arial, sans-serif;  color:#707070; font-size:14px; mso-line-height-rule:exactly; line-height:18px; padding:0px 10px 5px 0px;" >
+                              Modern Authentication with Active Directory for Web Applications
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" style="font-family:Helvetica, Arial, sans-serif;  color:#707070; font-size:12px; mso-line-height-rule:exactly; line-height:18px; padding:0px 10px 15px 0px;" >
+                              By Author Name
+                            </td>
+                          </tr>
+                        </table>
+                        <table class="fluid" align="left" width="125" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" style="font-size:1px; line-height:0; mso-margin-top-alt:1px;">
+                              <table width="125" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td height="40" width="125" align="left" bgcolor="#FFFFFF" style="font-size:1px; line-height:0; mso-margin-top-alt:1px;">
+                                    <div>
+                                      <!--[if mso]>
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:40px;v-text-anchor:middle;width:125px;" strokecolor="#b7b7b7" fillcolor="#ffffff">
+    <w:anchorlock/>
+    <center style="color:#707070;font-family:sans-serif;font-size:13px;font-weight:bold;">ADD TO CART</center>
+  </v:rect>
+<![endif]--><a href="http://"
+style="background-color:#ffffff;border:1px solid #b7b7b7;color:#707070;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:125px;-webkit-text-size-adjust:none;mso-hide:all;">CONTINUE</a>
+                                    </div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+</table>
