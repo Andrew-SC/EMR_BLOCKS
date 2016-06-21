@@ -1,0 +1,23 @@
+ <table class="fluid" width="200" align="left" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="center">
+                        <img src="http://placehold.it/200x50" width="200" alt="Logo" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none;">
+                      </td>
+                    </tr>
+                  </table>
+                  <table class="fluid" width="340" align="right" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="center" height="50">
+                        <img src="http://placehold.it/80x20" width="80" alt="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none;">
+                      </td>
+                      <td align="center" height="50">
+                        <img src="http://placehold.it/80x20" width="80" alt="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none;">
+                      </td>
+                      <td align="center" height="50">
+                        <img src="http://placehold.it/80x20" width="80" alt="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none;">
+                      </td>
+                      <td class="vanish" align="center" height="50">
+                        <img src="http://placehold.it/80x20" width="80" alt="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none;">
+                      </td>
+                    </tr>
+                  </table>
